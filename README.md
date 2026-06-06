@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1920-build-array-from-permutation](https://github.com/lohithjallipalli/Leet-Code/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1929-concatenation-of-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lohithjallipalli/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/lohithjallipalli/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/lohithjallipalli/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
