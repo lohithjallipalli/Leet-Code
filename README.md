@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/lohithjallipalli/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/lohithjallipalli/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
