@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/lohithjallipalli/Leet-Code/tree/main/0645-set-mismatch/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lohithjallipalli/Leet-Code/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/lohithjallipalli/Leet-Code/tree/main/0645-set-mismatch/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lohithjallipalli/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/lohithjallipalli/Leet-Code/tree/main/0645-set-mismatch/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
