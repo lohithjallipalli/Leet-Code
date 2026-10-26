@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0009-palindrome-number/) | Easy |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/lohithjallipalli/Leet-Code/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
