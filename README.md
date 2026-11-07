@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/lohithjallipalli/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/lohithjallipalli/Leet-Code/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/lohithjallipalli/Leet-Code/tree/main/0812-largest-triangle-area/) | Easy |
+| [0836-rectangle-overlap](https://github.com/lohithjallipalli/Leet-Code/tree/main/0836-rectangle-overlap/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 ## Array
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/lohithjallipalli/Leet-Code/tree/main/0812-largest-triangle-area/) | Easy |
+| [0836-rectangle-overlap](https://github.com/lohithjallipalli/Leet-Code/tree/main/0836-rectangle-overlap/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## String
 | Problem Name | Difficulty |
