@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/lohithjallipalli/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/lohithjallipalli/Leet-Code/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/lohithjallipalli/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/lohithjallipalli/Leet-Code/tree/main/0342-power-of-four/) | Easy |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/lohithjallipalli/Leet-Code/tree/main/0039-combination-sum/) | Medium |
 | [0041-first-missing-positive](https://github.com/lohithjallipalli/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/lohithjallipalli/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
+| [0066-plus-one](https://github.com/lohithjallipalli/Leet-Code/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/lohithjallipalli/Leet-Code/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/lohithjallipalli/Leet-Code/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0079-word-search/) | Medium |
