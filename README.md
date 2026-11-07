@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/lohithjallipalli/Leet-Code/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lohithjallipalli/Leet-Code/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/lohithjallipalli/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/lohithjallipalli/Leet-Code/tree/main/0415-add-strings/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 ## Array
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/lohithjallipalli/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/lohithjallipalli/Leet-Code/tree/main/0415-add-strings/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/lohithjallipalli/Leet-Code/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1929-concatenation-of-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/lohithjallipalli/Leet-Code/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/lohithjallipalli/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lohithjallipalli/Leet-Code/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/lohithjallipalli/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/lohithjallipalli/Leet-Code/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/lohithjallipalli/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/lohithjallipalli/Leet-Code/tree/main/1143-longest-common-subsequence/) | Medium |
