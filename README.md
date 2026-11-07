@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/lohithjallipalli/Leet-Code/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
+| [0598-range-addition-ii](https://github.com/lohithjallipalli/Leet-Code/tree/main/0598-range-addition-ii/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 ## Array
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/lohithjallipalli/Leet-Code/tree/main/0322-coin-change/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0598-range-addition-ii](https://github.com/lohithjallipalli/Leet-Code/tree/main/0598-range-addition-ii/) | Easy |
 | [0645-set-mismatch](https://github.com/lohithjallipalli/Leet-Code/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [0815-bus-routes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0815-bus-routes/) | Hard |
