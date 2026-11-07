@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/lohithjallipalli/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/lohithjallipalli/Leet-Code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/lohithjallipalli/Leet-Code/tree/main/0645-set-mismatch/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/lohithjallipalli/Leet-Code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/lohithjallipalli/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/lohithjallipalli/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/lohithjallipalli/Leet-Code/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/lohithjallipalli/Leet-Code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,4 +217,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/lohithjallipalli/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/lohithjallipalli/Leet-Code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
