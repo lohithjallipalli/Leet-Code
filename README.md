@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0009-palindrome-number/) | Easy |
+| [0070-climbing-stairs](https://github.com/lohithjallipalli/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lohithjallipalli/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/lohithjallipalli/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,4 +208,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/lohithjallipalli/Leet-Code/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/lohithjallipalli/Leet-Code/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0079-word-search/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/lohithjallipalli/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
