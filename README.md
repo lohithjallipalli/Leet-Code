@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/lohithjallipalli/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/lohithjallipalli/Leet-Code/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/lohithjallipalli/Leet-Code/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/lohithjallipalli/Leet-Code/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/lohithjallipalli/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/lohithjallipalli/Leet-Code/tree/main/0342-power-of-four/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lohithjallipalli/Leet-Code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0069-sqrtx](https://github.com/lohithjallipalli/Leet-Code/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -295,4 +297,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/lohithjallipalli/Leet-Code/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/lohithjallipalli/Leet-Code/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
