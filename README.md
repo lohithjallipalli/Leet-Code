@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/lohithjallipalli/Leet-Code/tree/main/0027-remove-element/) | Easy |
 | [0041-first-missing-positive](https://github.com/lohithjallipalli/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/lohithjallipalli/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/lohithjallipalli/Leet-Code/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/lohithjallipalli/Leet-Code/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/lohithjallipalli/Leet-Code/tree/main/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/lohithjallipalli/Leet-Code/tree/main/0645-set-mismatch/) | Easy |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/lohithjallipalli/Leet-Code/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/lohithjallipalli/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/lohithjallipalli/Leet-Code/tree/main/0075-sort-colors/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
 ## Geometry
@@ -151,4 +154,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lohithjallipalli/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/lohithjallipalli/Leet-Code/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/lohithjallipalli/Leet-Code/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
