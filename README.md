@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lohithjallipalli/Leet-Code/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/lohithjallipalli/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lohithjallipalli/Leet-Code/tree/main/0415-add-strings/) | Easy |
+| [0441-arranging-coins](https://github.com/lohithjallipalli/Leet-Code/tree/main/0441-arranging-coins/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 ## Array
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/lohithjallipalli/Leet-Code/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/lohithjallipalli/Leet-Code/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/lohithjallipalli/Leet-Code/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
