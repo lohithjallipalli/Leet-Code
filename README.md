@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0441-arranging-coins](https://github.com/lohithjallipalli/Leet-Code/tree/main/0441-arranging-coins/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/lohithjallipalli/Leet-Code/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0504-base-7](https://github.com/lohithjallipalli/Leet-Code/tree/main/0504-base-7/) | Easy |
+| [0507-perfect-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0507-perfect-number/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 ## Array
