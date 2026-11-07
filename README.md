@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/lohithjallipalli/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/lohithjallipalli/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/lohithjallipalli/Leet-Code/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/lohithjallipalli/Leet-Code/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/lohithjallipalli/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/lohithjallipalli/Leet-Code/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/lohithjallipalli/Leet-Code/tree/main/0645-set-mismatch/) | Easy |
@@ -198,4 +200,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/lohithjallipalli/Leet-Code/tree/main/0039-combination-sum/) | Medium |
+| [0078-subsets](https://github.com/lohithjallipalli/Leet-Code/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
