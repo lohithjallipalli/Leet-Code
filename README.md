@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/lohithjallipalli/Leet-Code/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/lohithjallipalli/Leet-Code/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/lohithjallipalli/Leet-Code/tree/main/0836-rectangle-overlap/) | Easy |
+| [0883-projection-area-of-3d-shapes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 ## Array
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0704-binary-search/) | Easy |
 | [0812-largest-triangle-area](https://github.com/lohithjallipalli/Leet-Code/tree/main/0812-largest-triangle-area/) | Easy |
 | [0815-bus-routes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0815-bus-routes/) | Hard |
+| [0883-projection-area-of-3d-shapes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lohithjallipalli/Leet-Code/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/lohithjallipalli/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
+| [0883-projection-area-of-3d-shapes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/lohithjallipalli/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lohithjallipalli/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Hash Table
@@ -181,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/lohithjallipalli/Leet-Code/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/lohithjallipalli/Leet-Code/tree/main/0836-rectangle-overlap/) | Easy |
+| [0883-projection-area-of-3d-shapes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## String
 | Problem Name | Difficulty |
