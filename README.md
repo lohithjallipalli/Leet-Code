@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/lohithjallipalli/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/lohithjallipalli/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/lohithjallipalli/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/lohithjallipalli/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0076-minimum-window-substring](https://github.com/lohithjallipalli/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/lohithjallipalli/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/lohithjallipalli/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/lohithjallipalli/Leet-Code/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0127-word-ladder](https://github.com/lohithjallipalli/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/lohithjallipalli/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lohithjallipalli/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
@@ -183,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/lohithjallipalli/Leet-Code/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/lohithjallipalli/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
