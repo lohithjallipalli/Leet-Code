@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/lohithjallipalli/Leet-Code/tree/main/0041-first-missing-positive/) | Hard |
+| [0076-minimum-window-substring](https://github.com/lohithjallipalli/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0076-minimum-window-substring](https://github.com/lohithjallipalli/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/lohithjallipalli/Leet-Code/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## String Matching
@@ -118,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lohithjallipalli/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/lohithjallipalli/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
 <!---LeetCode Topics End-->
