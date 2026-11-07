@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 | [0598-range-addition-ii](https://github.com/lohithjallipalli/Leet-Code/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/lohithjallipalli/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/lohithjallipalli/Leet-Code/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 ## Array
