@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lohithjallipalli/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/lohithjallipalli/Leet-Code/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/lohithjallipalli/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/lohithjallipalli/Leet-Code/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lohithjallipalli/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lohithjallipalli/Leet-Code/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/lohithjallipalli/Leet-Code/tree/main/0645-set-mismatch/) | Easy |
 | [0810-chalkboard-xor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0810-chalkboard-xor-game/) | Hard |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/lohithjallipalli/Leet-Code/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0810-chalkboard-xor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1025-divisor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/1025-divisor-game/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/lohithjallipalli/Leet-Code/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
