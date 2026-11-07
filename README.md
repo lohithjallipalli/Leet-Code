@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0198-house-robber](https://github.com/lohithjallipalli/Leet-Code/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/lohithjallipalli/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lohithjallipalli/Leet-Code/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/lohithjallipalli/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/lohithjallipalli/Leet-Code/tree/main/0198-house-robber/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
