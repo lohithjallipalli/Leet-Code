@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0598-range-addition-ii](https://github.com/lohithjallipalli/Leet-Code/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/lohithjallipalli/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/lohithjallipalli/Leet-Code/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0812-largest-triangle-area](https://github.com/lohithjallipalli/Leet-Code/tree/main/0812-largest-triangle-area/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 ## Array
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/lohithjallipalli/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/lohithjallipalli/Leet-Code/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0704-binary-search/) | Easy |
+| [0812-largest-triangle-area](https://github.com/lohithjallipalli/Leet-Code/tree/main/0812-largest-triangle-area/) | Easy |
 | [0815-bus-routes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0815-bus-routes/) | Hard |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/lohithjallipalli/Leet-Code/tree/main/0812-largest-triangle-area/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -343,4 +346,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0292-nim-game/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/lohithjallipalli/Leet-Code/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
