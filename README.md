@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1952-three-divisors](https://github.com/lohithjallipalli/Leet-Code/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2427-number-of-common-factors](https://github.com/lohithjallipalli/Leet-Code/tree/main/2427-number-of-common-factors/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/lohithjallipalli/Leet-Code/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0319-bulb-switcher](https://github.com/lohithjallipalli/Leet-Code/tree/main/0319-bulb-switcher/) | Medium |
 | [0810-chalkboard-xor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1025-divisor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/1025-divisor-game/) | Easy |
+| [2396-strictly-palindromic-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
