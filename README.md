@@ -244,4 +244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lohithjallipalli/Leet-Code/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/lohithjallipalli/Leet-Code/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
