@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/lohithjallipalli/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/lohithjallipalli/Leet-Code/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/lohithjallipalli/Leet-Code/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/lohithjallipalli/Leet-Code/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/lohithjallipalli/Leet-Code/tree/main/0342-power-of-four/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/lohithjallipalli/Leet-Code/tree/main/0067-add-binary/) | Easy |
 | [0412-fizz-buzz](https://github.com/lohithjallipalli/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lohithjallipalli/Leet-Code/tree/main/0415-add-strings/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/lohithjallipalli/Leet-Code/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/lohithjallipalli/Leet-Code/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/lohithjallipalli/Leet-Code/tree/main/0078-subsets/) | Medium |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -166,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/lohithjallipalli/Leet-Code/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0067-add-binary](https://github.com/lohithjallipalli/Leet-Code/tree/main/0067-add-binary/) | Easy |
 | [0076-minimum-window-substring](https://github.com/lohithjallipalli/Leet-Code/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0079-word-search/) | Medium |
 | [0127-word-ladder](https://github.com/lohithjallipalli/Leet-Code/tree/main/0127-word-ladder/) | Hard |
