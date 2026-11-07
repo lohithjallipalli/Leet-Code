@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/lohithjallipalli/Leet-Code/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/lohithjallipalli/Leet-Code/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/lohithjallipalli/Leet-Code/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/lohithjallipalli/Leet-Code/tree/main/0367-valid-perfect-square/) | Easy |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/lohithjallipalli/Leet-Code/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/lohithjallipalli/Leet-Code/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/lohithjallipalli/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lohithjallipalli/Leet-Code/tree/main/0415-add-strings/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/lohithjallipalli/Leet-Code/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -315,4 +317,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0202-happy-number/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/lohithjallipalli/Leet-Code/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
