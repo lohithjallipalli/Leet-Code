@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0598-range-addition-ii](https://github.com/lohithjallipalli/Leet-Code/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/lohithjallipalli/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/lohithjallipalli/Leet-Code/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0810-chalkboard-xor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [0812-largest-triangle-area](https://github.com/lohithjallipalli/Leet-Code/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/lohithjallipalli/Leet-Code/tree/main/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/lohithjallipalli/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/lohithjallipalli/Leet-Code/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0704-binary-search/) | Easy |
+| [0810-chalkboard-xor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [0812-largest-triangle-area](https://github.com/lohithjallipalli/Leet-Code/tree/main/0812-largest-triangle-area/) | Easy |
 | [0815-bus-routes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0815-bus-routes/) | Hard |
 | [0883-projection-area-of-3d-shapes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/lohithjallipalli/Leet-Code/tree/main/0342-power-of-four/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lohithjallipalli/Leet-Code/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/lohithjallipalli/Leet-Code/tree/main/0645-set-mismatch/) | Easy |
+| [0810-chalkboard-xor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0810-chalkboard-xor-game/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -356,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0292-nim-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/lohithjallipalli/Leet-Code/tree/main/0319-bulb-switcher/) | Medium |
+| [0810-chalkboard-xor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1025-divisor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/1025-divisor-game/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
@@ -365,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0292-nim-game/) | Easy |
+| [0810-chalkboard-xor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1025-divisor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/1025-divisor-game/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -374,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0292-nim-game/) | Easy |
+| [0810-chalkboard-xor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0810-chalkboard-xor-game/) | Hard |
 | [1025-divisor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/1025-divisor-game/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
@@ -406,4 +412,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/lohithjallipalli/Leet-Code/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0810-chalkboard-xor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0810-chalkboard-xor-game/) | Hard |
 <!---LeetCode Topics End-->
