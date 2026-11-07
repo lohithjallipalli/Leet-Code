@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/lohithjallipalli/Leet-Code/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/lohithjallipalli/Leet-Code/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/lohithjallipalli/Leet-Code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/lohithjallipalli/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/lohithjallipalli/Leet-Code/tree/main/0127-word-ladder/) | Hard |
 | [0168-excel-sheet-column-title](https://github.com/lohithjallipalli/Leet-Code/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/lohithjallipalli/Leet-Code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lohithjallipalli/Leet-Code/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/lohithjallipalli/Leet-Code/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/lohithjallipalli/Leet-Code/tree/main/0415-add-strings/) | Easy |
