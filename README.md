@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/lohithjallipalli/Leet-Code/tree/main/0319-bulb-switcher/) | Medium |
 | [0342-power-of-four](https://github.com/lohithjallipalli/Leet-Code/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/lohithjallipalli/Leet-Code/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lohithjallipalli/Leet-Code/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/0292-nim-game/) | Easy |
+| [0319-bulb-switcher](https://github.com/lohithjallipalli/Leet-Code/tree/main/0319-bulb-switcher/) | Medium |
 | [1025-divisor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/1025-divisor-game/) | Easy |
 ## Minimax
 | Problem Name | Difficulty |
