@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/lohithjallipalli/Leet-Code/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/lohithjallipalli/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/lohithjallipalli/Leet-Code/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/lohithjallipalli/Leet-Code/tree/main/0367-valid-perfect-square/) | Easy |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/lohithjallipalli/Leet-Code/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/lohithjallipalli/Leet-Code/tree/main/0078-subsets/) | Medium |
+| [0231-power-of-two](https://github.com/lohithjallipalli/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/lohithjallipalli/Leet-Code/tree/main/0342-power-of-four/) | Easy |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/lohithjallipalli/Leet-Code/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/lohithjallipalli/Leet-Code/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 ## Newton's Method
