@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1952-three-divisors](https://github.com/lohithjallipalli/Leet-Code/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
+| [2427-number-of-common-factors](https://github.com/lohithjallipalli/Leet-Code/tree/main/2427-number-of-common-factors/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/lohithjallipalli/Leet-Code/tree/main/0258-add-digits/) | Easy |
 | [1952-three-divisors](https://github.com/lohithjallipalli/Leet-Code/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/lohithjallipalli/Leet-Code/tree/main/2427-number-of-common-factors/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/lohithjallipalli/Leet-Code/tree/main/1952-three-divisors/) | Easy |
+| [2427-number-of-common-factors](https://github.com/lohithjallipalli/Leet-Code/tree/main/2427-number-of-common-factors/) | Easy |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,8 +390,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/lohithjallipalli/Leet-Code/tree/main/2427-number-of-common-factors/) | Easy |
 ## Greatest Common Divisor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2427-number-of-common-factors](https://github.com/lohithjallipalli/Leet-Code/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
