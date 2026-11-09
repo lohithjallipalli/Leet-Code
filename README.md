@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-projection-area-of-3d-shapes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/lohithjallipalli/Leet-Code/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/lohithjallipalli/Leet-Code/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lohithjallipalli/Leet-Code/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1470-shuffle-the-array/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/lohithjallipalli/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [0883-projection-area-of-3d-shapes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/lohithjallipalli/Leet-Code/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/lohithjallipalli/Leet-Code/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/lohithjallipalli/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lohithjallipalli/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Hash Table
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/lohithjallipalli/Leet-Code/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/lohithjallipalli/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/lohithjallipalli/Leet-Code/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lohithjallipalli/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -263,11 +266,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/lohithjallipalli/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/lohithjallipalli/Leet-Code/tree/main/0322-coin-change/) | Medium |
 | [0815-bus-routes](https://github.com/lohithjallipalli/Leet-Code/tree/main/0815-bus-routes/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/lohithjallipalli/Leet-Code/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lohithjallipalli/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/lohithjallipalli/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/lohithjallipalli/Leet-Code/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lohithjallipalli/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -440,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/lohithjallipalli/Leet-Code/tree/main/0169-majority-element/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/lohithjallipalli/Leet-Code/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/lohithjallipalli/Leet-Code/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
