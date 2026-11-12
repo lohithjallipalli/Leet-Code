@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/lohithjallipalli/Leet-Code/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/lohithjallipalli/Leet-Code/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/lohithjallipalli/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lohithjallipalli/Leet-Code/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/lohithjallipalli/Leet-Code/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lohithjallipalli/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Greedy
