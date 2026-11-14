@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2425-bitwise-xor-of-all-pairings](https://github.com/lohithjallipalli/Leet-Code/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/lohithjallipalli/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lohithjallipalli/Leet-Code/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/lohithjallipalli/Leet-Code/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/lohithjallipalli/Leet-Code/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/lohithjallipalli/Leet-Code/tree/main/3591-check-if-any-element-has-prime-frequency/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/lohithjallipalli/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/lohithjallipalli/Leet-Code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/lohithjallipalli/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/lohithjallipalli/Leet-Code/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -285,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/lohithjallipalli/Leet-Code/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/lohithjallipalli/Leet-Code/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/lohithjallipalli/Leet-Code/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/lohithjallipalli/Leet-Code/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
