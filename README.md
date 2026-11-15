@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/1025-divisor-game/) | Easy |
 | [1030-matrix-cells-in-distance-order](https://github.com/lohithjallipalli/Leet-Code/tree/main/1030-matrix-cells-in-distance-order/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/lohithjallipalli/Leet-Code/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lohithjallipalli/Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1952-three-divisors](https://github.com/lohithjallipalli/Leet-Code/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/lohithjallipalli/Leet-Code/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lohithjallipalli/Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/lohithjallipalli/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/lohithjallipalli/Leet-Code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/lohithjallipalli/Leet-Code/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lohithjallipalli/Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/lohithjallipalli/Leet-Code/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/lohithjallipalli/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/lohithjallipalli/Leet-Code/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -300,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/1025-divisor-game/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/lohithjallipalli/Leet-Code/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lohithjallipalli/Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
