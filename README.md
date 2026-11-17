@@ -228,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/lohithjallipalli/Leet-Code/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/lohithjallipalli/Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/lohithjallipalli/Leet-Code/tree/main/1143-longest-common-subsequence/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/lohithjallipalli/Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/lohithjallipalli/Leet-Code/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -306,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/lohithjallipalli/Leet-Code/tree/main/1025-divisor-game/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/lohithjallipalli/Leet-Code/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lohithjallipalli/Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/lohithjallipalli/Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
