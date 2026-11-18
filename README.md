@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2243-calculate-digit-sum-of-a-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/lohithjallipalli/Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/lohithjallipalli/Leet-Code/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/lohithjallipalli/Leet-Code/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
