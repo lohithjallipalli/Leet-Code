@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/lohithjallipalli/Leet-Code/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/lohithjallipalli/Leet-Code/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/lohithjallipalli/Leet-Code/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/lohithjallipalli/Leet-Code/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/lohithjallipalli/Leet-Code/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/lohithjallipalli/Leet-Code/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/lohithjallipalli/Leet-Code/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lohithjallipalli/Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lohithjallipalli/Leet-Code/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/lohithjallipalli/Leet-Code/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/lohithjallipalli/Leet-Code/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/lohithjallipalli/Leet-Code/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/lohithjallipalli/Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/lohithjallipalli/Leet-Code/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
