@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/lohithjallipalli/Leet-Code/tree/main/0504-base-7/) | Easy |
 | [0567-permutation-in-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/0567-permutation-in-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/lohithjallipalli/Leet-Code/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/lohithjallipalli/Leet-Code/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/lohithjallipalli/Leet-Code/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/lohithjallipalli/Leet-Code/tree/main/2409-count-days-spent-together/) | Easy |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/lohithjallipalli/Leet-Code/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
